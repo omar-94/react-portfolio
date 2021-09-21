@@ -1,0 +1,12 @@
+.bg {
+  /* background-color: rgb(224, 235, 235) !important; */
+  background-color: rgb(60, 93, 93) !important;
+}
+
+.dropdown-menu {
+  border: none;
+}
+
+.dropdown-menu-dark {
+  background-color: rgb(60, 93, 93, .9) !important;
+}

@@ -1,0 +1,62 @@
+.background-img1 {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* .background-img1 {
+  background-image: url("public/assets/portrait-2.jpg");
+}   */
+
+#home {
+  padding: 250px 0px;
+  font-family: 'Raleway', sans-serif;
+}
+
+#name-title {
+  letter-spacing: 10px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+  /* -webkit-text-stroke: .75px rgb(255, 255, 255); */
+  animation: fadeIn linear 2s;
+}
+
+#job-subtitle {
+  letter-spacing: 4px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+#name-title, #job-subtitle {
+  animation: fadeIn linear 2s;
+  -webkit-animation: fadeIn linear 2s;
+  -moz-animation: fadeIn linear 2s;
+  -o-animation: fadeIn linear 2s;
+  -ms-animation: fadeIn linear 2s;
+}
+
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+} 
