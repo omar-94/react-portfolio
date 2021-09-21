@@ -2,9 +2,6 @@ import React from "react";
 import './style.css';
 import background from './images/portrait2.jpg';
 
-
-
-
 const Header = () => {
 
   return (

@@ -1,8 +1,9 @@
 import './App.css';
-import { BrowserRouter as Router} from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import Navbar from './components/NavBar';
+import AboutMePage from './pages/AboutMePage'
+import ContactPage from './pages/ContactPage';
 import Header from './components/Header';
-import AboutMe from './components/AboutMe';
 import Footer from './components/Footer';
 
 function App() {
@@ -11,7 +12,10 @@ function App() {
     <Router basename={process.env.PUBLIC_URL} >
         <Navbar />
         <Header />
-        <AboutMe />
+          <Route exact path="/" component={AboutMePage} />
+          <Route exact path="/about" component={AboutMePage} />
+          <Route exact path="/contact" component={ContactPage} />
+          <Route exact path="/contact" component={PortfolioPage} />
         <Footer />
     </Router>
   );
