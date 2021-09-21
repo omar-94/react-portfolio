@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import Navbar from './components/NavBar';
 import AboutMePage from './pages/AboutMePage'
 import ContactPage from './pages/ContactPage';
+import PortfolioPage from './pages/PortfolioPage';
 import Header from './components/Header';
 import Footer from './components/Footer';
 
@@ -15,7 +16,7 @@ function App() {
           <Route exact path="/" component={AboutMePage} />
           <Route exact path="/about" component={AboutMePage} />
           <Route exact path="/contact" component={ContactPage} />
-          <Route exact path="/contact" component={PortfolioPage} />
+          <Route exact path="/portfolio" component={PortfolioPage} />
         <Footer />
     </Router>
   );
