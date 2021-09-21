@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "bootstrap": "^5.1.1",
     "gh-pages": "^3.2.3"
   }
 }
