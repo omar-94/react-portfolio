@@ -4,7 +4,7 @@ import ContactMe from "../components/ContactMe"
 const ContactPage = () => {
 
   return (
-    <div>
+    <div href="#contact-me">
       <ContactMe />
     </div>
   )

@@ -23,7 +23,7 @@ const Navbar = () => {
                             <Link to="/contact" className="nav-link" href="#contact-me">Contact</Link>
                         </li>
                         <li className="nav-item">
-                            <Link to="/portfolio" className="nav-link" href="#contact-me">Portfolio</Link>
+                            <Link to="/portfolio" className="nav-link" href="#portfolio">Portfolio</Link>
                         </li>
                         {/* <li className="nav-item dropdown">
                             <a className="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Portfolio</a>

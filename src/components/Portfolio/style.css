@@ -1,0 +1,38 @@
+#about-me-title {
+  margin-bottom: 3rem;
+  letter-spacing: 10px;
+  font-size: 1.75rem;
+  
+}
+
+#line-design {
+  width: 150px;
+  height: 1px;
+  margin: -20px auto 30px auto;
+}
+
+.about-me {
+  padding: 2rem;
+  padding-bottom: 5rem;
+} 
+
+.p-about-me {
+  padding: 0 10em !important;
+}
+
+.web-dev-projects {
+  background-color: #d1e0e0 !important;
+}
+
+.card {
+  border: 0;
+}
+
+.py-5 {
+  padding-bottom: 2rem !important;
+}
+
+.repo-link {
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Movie and Drink Matchmaker",
+    "image": "./assets/images/movie-drink-match.png",
+    "appLink": "https://evperkinsjr.github.io/movie-drink-matchmaker/",
+    "gitHubUrl": "https://github.com/evperkinsjr/movie-drink-matchmaker"
+  },
+  {
+    "title": "Note Taker",
+    "image": "./assets/images/note-taker.png",
+    "appLink": "https://omar-note-taker.herokuapp.com/",
+    "gitHubUrl": "https://github.com/omar-94/note-taker"
+  },
+  {
+    "title": "Cooper and Dan's Toybox (Heroku App)",
+    "image": "./assets/images/cooper-dan-toybox.png",
+    "appLink": "https://cooper-dans-toybox-omar.herokuapp.com/",
+    "gitHubUrl": "https://github.com/tloyzelle/Project-2"
+  },
+  {
+    "title": "ReadMe.md Generator",
+    "image": "./assets/images/readme-generator.png",
+    "appLink": "",
+    "gitHubUrl": "https://github.com/omar-94/README.md-generator"
+  },
+  {
+    "title": "Password Generator",
+    "image": "./assets/images/password-generator.png",
+    "appLink": "https://omar-94.github.io/password-generator/",
+    "gitHubUrl": "https://github.com/omar-94/password-generator"
+  },
+  {
+    "title": "This React Portfolio",
+    "image": "./assets/images/react-portfolio.png",
+    "appLink": "",
+    "gitHubUrl": "https://github.com/omar-94/react-portfolio"
+  }
+]

@@ -15,7 +15,7 @@ const AboutMe = () => {
 
                 <p>Along with being a creative person, I have been a tech savvy individual my whole life. Always having an intriguing curiosity for code... my journey has led me to web design/development. Having the ability to mix both worlds has been exciting and rewarding so far! I hope to continue to pursue this passion to create clean and beautiful visual experiences across the web.</p>
 
-                <p>Aside from working on my skills, I also like to be a very active person. In my free time you can find me working out, longboarding, and doing photography. If you wish to reach out to me for any project ideas, please feel free to <a href="#contact-me">contact me</a>.</p>
+                <p>Aside from working on my skills, I also like to be a very active person. In my free time you can find me working out, longboarding, and doing photography. If you wish to reach out to me for any project ideas, please feel free to <a href="./contact">contact me</a>.</p>
             </div>      
         </div>
   )
