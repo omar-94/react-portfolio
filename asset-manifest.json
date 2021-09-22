@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/omar-94/react-portfolio/static/css/main.307ab94f.chunk.css",
+    "main.js": "/omar-94/react-portfolio/static/js/main.ffbebc6d.chunk.js",
+    "main.js.map": "/omar-94/react-portfolio/static/js/main.ffbebc6d.chunk.js.map",
+    "runtime-main.js": "/omar-94/react-portfolio/static/js/runtime-main.18584a8e.js",
+    "runtime-main.js.map": "/omar-94/react-portfolio/static/js/runtime-main.18584a8e.js.map",
+    "static/css/2.f2512455.chunk.css": "/omar-94/react-portfolio/static/css/2.f2512455.chunk.css",
+    "static/js/2.34649b52.chunk.js": "/omar-94/react-portfolio/static/js/2.34649b52.chunk.js",
+    "static/js/2.34649b52.chunk.js.map": "/omar-94/react-portfolio/static/js/2.34649b52.chunk.js.map",
+    "index.html": "/omar-94/react-portfolio/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/omar-94/react-portfolio/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.307ab94f.chunk.css.map": "/omar-94/react-portfolio/static/css/main.307ab94f.chunk.css.map",
+    "static/js/2.34649b52.chunk.js.LICENSE.txt": "/omar-94/react-portfolio/static/js/2.34649b52.chunk.js.LICENSE.txt",
+    "static/media/coffee-and-laptop.473b838b.jpeg": "/omar-94/react-portfolio/static/media/coffee-and-laptop.473b838b.jpeg",
+    "static/media/portrait2.e0bb4e98.jpg": "/omar-94/react-portfolio/static/media/portrait2.e0bb4e98.jpg",
+    "static/media/resume-2021.9dcd12c1.pdf": "/omar-94/react-portfolio/static/media/resume-2021.9dcd12c1.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18584a8e.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.34649b52.chunk.js",
+    "static/css/main.307ab94f.chunk.css",
+    "static/js/main.ffbebc6d.chunk.js"
+  ]
+}
