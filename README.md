@@ -7,7 +7,7 @@ Official Portfolio created using ReactJS
 ![Official Portfolio](./public/assets/images/react-portfolio.png)
 
 ## Links
-- [Live Application](https://github.com/omar-94/react-portfolio/)
+- [Live Application](http://omar-94.github.io/react-portfolio)
 - [GitHub Repo](https://github.com/omar-94/react-portfolio)
 
 ## Technologies
